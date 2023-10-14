@@ -10,6 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://raw.githubusercontent.com/sempostma/office365-icons/9efbd5fd22903946539c2f9936954e5915a59296/png/1024/excel.png">  
   </div
     
   <div> 
