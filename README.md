@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Excel" height="30" width="30" src="https://raw.githubusercontent.com/sempostma/office365-icons/9efbd5fd22903946539c2f9936954e5915a59296/png/1024/excel.png">  
-  <img align="center" alt="Powerbi" height="30" width="25"     src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png">
+  <img align="center" alt="Powerbi" height="30" width="40"     src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png">
   <img align="center" alt="SQL" height="40" width="40" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-7.png">
    
   </div
